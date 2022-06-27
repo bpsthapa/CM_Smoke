@@ -1,5 +1,6 @@
 {
   "Url": "https://dev.cwlite-identity.spiralogics.net/Account/Login",
-  "UserName1": "Spiralogics",
-  "Password1": "Sp!ral@CMS2022#"
+  "UserName2": "Spiralogics",
+  "Password2": "Sp!ral@CMS2022#",
+  "dfa": "fda"
 }
